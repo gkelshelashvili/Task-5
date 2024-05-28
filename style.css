@@ -1,0 +1,25 @@
+.container {
+    margin: auto;
+    margin-bottom: 200px;
+}
+
+#my_btn{
+    text-align: center;
+    font-size: 15px;
+    border-radius: 5px;
+    color: black;
+    background-color: red;
+    cursor: pointer;
+}
+
+.score_div {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+
+.quiz {
+    display: flex;
+    justify-content: space-between;
+}
